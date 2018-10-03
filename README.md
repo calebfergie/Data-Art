@@ -77,16 +77,16 @@ Since we’re not using a percentage-based grading system, let me put it another
 * [How I Learned to Love Data Visualization (Again),](https://vimeo.com/159297152) Jon Schwabish speaking at the 2015 Visualized Conference
 
 **Assignment:** 
-* Data (Self)Portrait: Create a self-portrait or portrait of someone else. Portrait must be derived from a data set
+* Data (Self)Portrait: Create a self-portrait or portrait of someone else. The portrait must be derived from a data set, or use data as a material.
 * Due Week 4, September 25th. Documentation should be posted and a link emailed before class begins
 
 September 4th – Week 1. The lay of the land & introductions - [slides](https://drive.google.com/open?id=1kgTB-9lz4qS0vNXsMAGZpL9nSZWpjmgD) shown in class
 
-September 11th – Week 2. Topic Survey & technical workshop (data translation)
+September 11th – Week 2. Topic Survey & technical overview (data translation) - [slides](https://drive.google.com/open?id=1lZocBzoTYxg54XfVdBbSKh30wq6pnhFb) shown in class
 
-September 18th – Week 3. Discussion of readings & technical workshop (p5.js)
+September 18th – Week 3. Discussion of readings & technical workshop (ES6 Intro) - [slides](https://drive.google.com/file/d/1wK1-iiQkN0Upe5ulnRf9KZaftPBptr1i/view?usp=sharing) shown in class
 
-September 25th - Week 4. Guest Speaker (TBD) & Project presentations
+September 25th - Week 4. Guest Speaker ([Brian House](https://brianhouse.net/)) & [Project](https://github.com/veev/DataArtFall2018/wiki/Data-(Self)-Portrait) presentations
 
 ### Text, Archives & Memory Stores
 
@@ -96,7 +96,7 @@ September 25th - Week 4. Guest Speaker (TBD) & Project presentations
 * [A Sea of Data: Apophenia and Pattern (Mis-)Recognition,](http://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/) Hito Steyerl
 * [Abundant Images and the Collective Sublime,](http://circulationexchange.org/articles/abundantimages.html) Kate Palmer Albers
 
-October 2nd – Week 5. Topic survey & technical workshop (RiTA)
+October 2nd – Week 5. Topic survey & technical workshop (RiTA) - [slides](https://drive.google.com/open?id=1gYWfdaiX24P3TDGsV9Kwi6W_7_83t5_n) show in class
 
 October 9th - NO CLASS, Legislative Day 
 
@@ -117,9 +117,7 @@ October 30th – Week 8. Topic survey & technical workshop (Web Maps / Public Da
 
 November 6th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js)
 
-November 13th – Week 10. Technical workshop (THREE.js / Unity)
-
-November 20th – Week 11. Guest Speaker (TBD) & Project presentations
+November 13th – Week 10. Guest Speaker (TBD) & Project presentations
 
 ### Ethics, Humans & Responsibility
 
@@ -129,7 +127,9 @@ November 20th – Week 11. Guest Speaker (TBD) & Project presentations
 * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
 * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
-November 27th – Week 12. Topic survey & technical workshop (D3)
+November 20th – Week 11. Topic survey & overview of the landscape
+
+November 27th – Week 12. Technical workshop (THREE.js / Unity)
 
 December 4th – Week 13. Discussion of readings & overview of other resources
 
