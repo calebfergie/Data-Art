@@ -1,0 +1,167 @@
+html {
+  height:100%;
+}
+
+body {
+  height: 90%;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #FFFFFA;
+  color: #383830;
+}
+
+a {
+  color: #7700DE;
+}
+
+footer {
+  font-size: 12px;
+  text-align: center;
+  background-color: #FFFED8;
+  position: fixed;
+  width: 100%;
+  margin-top: 10px;
+  left:0px;
+  right:0px;
+  bottom: 0px;
+}
+
+/* p {
+    vertical-align: middle;
+} */
+
+div {
+  display:inline-block;
+  padding: 10px;
+}
+
+h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 40px;
+  padding-top: 0px;
+}
+
+h2 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 20px;
+}
+
+#backgroundGraph {
+  width: 100%;
+  height: 100%;
+  position:relative;
+}
+
+#wordLabel {
+  fill: #383830;
+}
+
+.directionsLead {
+  /* border-style: solid;
+  border-radius: 3px;
+  border-color: #adafb2;
+  border-width: 5px; */
+  /* background: #373a38; */
+  line-height: 14px; /* <-- adjust this */
+  padding: 5px;
+  margin: 10px;
+  height: 4rem;
+  width: 12rem;
+  vertical-align: top;
+}
+
+.directions {
+  border-style: solid;
+  border-radius: 3px;
+  border-color: #383830;
+  border-width: 3px;
+  background: #FFFED8;
+  text-align: center;
+  font-size: 10px;
+  line-height: 14px; /* <-- adjust this */
+  padding: 5px;
+  margin: 10px;
+  height: 4rem;
+  width: 6rem;
+  vertical-align: top;
+}
+
+#directionsTitle {
+  font-size: 15px;
+  text-align: left;
+  margin: 0px;
+  line-height: 150%;
+}
+
+#number {
+margin: -6px;
+padding: 0px;
+border: 0px;
+width: 10px;
+border-radius: 1px;
+background-color: #FFFED8;
+/* Adjust these values to posiytion the title or label */
+top: 0px;
+left: 0px;
+}
+
+.artistBox {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: #383830;
+    border-width: 5px;
+    background: #FFFED8;
+    text-align: right;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    vertical-align: top;
+}
+
+.highlight {
+background: #8f9eb7;
+}
+
+#dataLabel {
+  padding-top: 5px;
+  font-size: 8px;
+  fill: #383830;
+}
+
+#artistSearch {
+  padding:10px;
+  font-size: 15px;
+}
+
+#artist {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 15px;
+  height: 1.5rem;
+}
+
+.button {
+height:2rem;
+background-color: #FFFED8;
+vertical-align: top;
+text-align: center;
+display: inline-block;
+font-size: 15px;
+}
+
+.bigSVG {
+  border-style: solid;
+  border-radius: 25px;
+  border-color: #383830;
+  position: absolute;
+    top: 40%;
+    left: 0;
+    width: 100%;
+    height: 60%;
+    overflow: hidden;
+    z-index: -1000;
+    border-color:
+}
