@@ -13,7 +13,7 @@ function searchArtist(artistQuery) {
   $.ajax({
     type: "GET",
     data: {
-      apikey: "269bb3fb2505bb19390c34b428eec180",
+      apikey: "4b1d0a7217d69d1e460f71835255d50f",
       q_artist: artistQuery,
       format: "jsonp",
       // callback: "jsonp_callback"
@@ -46,7 +46,7 @@ function getAlbums(artistID, lexPosition) {
   $.ajax({
     type: "GET",
     data: {
-      apikey: "269bb3fb2505bb19390c34b428eec180",
+      apikey: "4b1d0a7217d69d1e460f71835255d50f",
       artist_id: artistID,
       format: "jsonp",
       // callback: "jsonp_callback"
@@ -76,7 +76,7 @@ function getSongs(albumID, lexPosition) {
   $.ajax({
     type: "GET",
     data: {
-      apikey: "269bb3fb2505bb19390c34b428eec180",
+      apikey: "4b1d0a7217d69d1e460f71835255d50f",
       album_id: albumID,
       format: "jsonp",
       // callback: "jsonp_callback"
@@ -105,7 +105,7 @@ function getLyrics(trackID, lexPosition) {
   $.ajax({
     type: "GET",
     data: {
-      apikey: "269bb3fb2505bb19390c34b428eec180",
+      apikey: "4b1d0a7217d69d1e460f71835255d50f",
       track_id: trackID,
       format: "jsonp",
       // callback: "jsonp_callback"
