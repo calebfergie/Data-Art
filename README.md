@@ -100,9 +100,9 @@ October 2nd – Week 5. Topic survey & technical workshop (RiTA) - [slides](http
 
 October 9th - NO CLASS, Legislative Day 
 
-October 16th – Week 6. Discussion of readings & overview of other resources
+October 16th – Week 6. Discussion of readings & overview of other resources (puppeteer.js) - [slides](https://docs.google.com/presentation/d/1UvfWT64ZXkD3xCrxYQGq_MVAwvSx8gs1o-FrbbWQ-_A/edit?usp=sharing) shown in class
 
-October 23rd – Week 7. Guest Speaker (TBD) & Project presentations
+October 23rd – Week 7. Guest Speaker ([Roopa Vasudevan](https://rouxpz.com/)) & Project presentations
 
 ### Data & Publics
 
@@ -113,7 +113,7 @@ October 23rd – Week 7. Guest Speaker (TBD) & Project presentations
 * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
 * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
 
-October 30th – Week 8. Topic survey & technical workshop (Web Maps / Public Data)
+October 30th – Week 8. Topic survey & technical workshop (Web Maps / Public Data) - [slides](https://drive.google.com/open?id=1LFdUv0XEP97gH7Gz5WamaiNf_vYaqFfR) shown in class
 
 November 6th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js)
 
