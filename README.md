@@ -1,3 +1,17 @@
+# What's in here?
+
+This is the repository of projects I made in ITP's [data art course](https://github.com/veev/DataArtFall2018).
+
+More information about each project can be found in the links below:
+
+1. [Spotify Self-Portrait](http://www.blog.calebfergie.com/2018/09/25/waveform-mashup/) - A visualization of the waveforms of my top 100 songs of 2017 (as defined by Spotify) made with D3
+2. [Color of Music](http://www.blog.calebfergie.com/2018/10/31/the-color-of-music/) - An app that searches artist lyrics for the colors that they mention in their songs, and displays them as a palette made with D3
+3. [Melting Pot](http://www.blog.calebfergie.com/2018/09/11/melting-pot/) - A quick data visualization of immigrant populations to the US – made with using p5.js
+
+This work and others related to the course can be found on my blog [here](http://www.blog.calebfergie.com/category/data-art/).
+
+The syllabus of the course, which includes many awesome articles is listed below.
+
 # Data Art –  ITP Fall 2018
 
 * Instructor: Genevieve Hoffman
