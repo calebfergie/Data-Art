@@ -1,0 +1,3 @@
+#/!bin/bash
+
+for f in ../songs-small-json-files/*a*.json; do echo $f; done

@@ -1,0 +1,3 @@
+#/!bin/bash
+
+for f in ../songs-dat-files/*.dat; do audiowaveform -i $f -o $f.json; done

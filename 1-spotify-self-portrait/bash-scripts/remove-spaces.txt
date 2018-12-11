@@ -1,0 +1,7 @@
+#/!bin/bash
+
+For file I
+for f in * *
+do
+mv "$f" "${f// /_}"
+done
